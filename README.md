@@ -1,0 +1,1 @@
+An AI powered chatbot specially finetuned on BERT using mental health conversational data to generate empathetic responses to users looking for emotional support and in many convenient languages based on each user and also features a personalized chart for each user, depicting his/her mood trends throughout the conversation
